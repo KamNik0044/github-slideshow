@@ -3,4 +3,4 @@ layput:slide
 title:"welcome to our secend slide"
 ---
 your test
-use the arrow to go back!
+use the left arrow to go back!
